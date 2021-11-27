@@ -1,2 +1,2 @@
 # Coding-Interview-FreeCodeCamp
-Solving programs ffrom FreeCodeCamp's "Master your coding interview" youtube video
+Solving programs from FreeCodeCamp's "Master your coding interview" youtube video
